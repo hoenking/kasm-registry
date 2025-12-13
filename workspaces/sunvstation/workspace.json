@@ -26,7 +26,8 @@
       "image": "hoenking8/ubuntu-jammy",
       "uncompressed_size_mb": 8192,
       "available_tags": [
-        "sunvstation1.0"
+        "sunvstation1.0",
+        "sunvstation1.1"
       ]
     }
   ]
