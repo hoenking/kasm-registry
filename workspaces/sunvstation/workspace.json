@@ -14,7 +14,20 @@
   "enabled": true,
   "image_type": "Container",
   "name": "hoenking8/ubuntu-jammy:sunvstation1.0",
+  "run_config": {
+    "hostname": "kasm"
+  },
   "architecture": [
     "amd64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.18.x",
+      "image": "hoenking8/ubuntu-jammy:sunvstation1.0",
+      "uncompressed_size_mb": 2170,
+      "available_tags": [
+        "develop"
+      ]
+    }
   ]
 }
