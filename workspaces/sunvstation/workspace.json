@@ -23,10 +23,10 @@
   "compatibility": [
     {
       "version": "1.18.x",
-      "image": "hoenking8/ubuntu-jammy:sunvstation1.0",
-      "uncompressed_size_mb": 2170,
+      "image": "hoenking8/ubuntu-jammy",
+      "uncompressed_size_mb": 8192,
       "available_tags": [
-        "develop"
+        "sunvstation1.0"
       ]
     }
   ]
